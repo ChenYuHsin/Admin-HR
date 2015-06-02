@@ -1,0 +1,11 @@
+#addJobs{
+    margin-left:50px;
+}
+
+td .fa-male{
+	margin-right:15px;
+}
+
+td:nth-child(5){
+	cursor:pointer;
+}

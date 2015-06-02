@@ -1,0 +1,28 @@
+.main{
+	margin-left:20px;
+}
+
+#searchbar{
+	width:50%;
+}
+
+#barAndBtn{
+	margin-top:30px;
+}
+
+#searchBlock{
+	background-color:#999;
+	margin:20px 0px;
+}
+
+a {
+	color:#FFF;
+}
+
+.underBtns{
+	margin:20px;
+}
+
+.underBtns .btn{
+	margin:5px;
+}
